@@ -1,3 +1,11 @@
+##### 快速使用
+
+此处为源码部分，code_generator.rar为源码打包为单机版软件的形式，解压即可使用！
+
+Java代码打包单机版软件参考博客：https://www.cnblogs.com/fantongxue/p/14601328.html
+
+解压code_generator.rar压缩包，里面附有代码生成模板，参照以下说明进行配置即可！
+
 ##### 目录结构
 
 - config：包括数据库配置，数据库和java的数据类型映射配置，以及自定义配置
