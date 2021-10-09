@@ -27,6 +27,4 @@ Java代码打包单机版软件参考博客：https://www.cnblogs.com/fantongxue
 
 
 
-![](https://img-blog.csdnimg.cn/89ba9900fe314a6c8c78761e4f4c21c5.png)
-
 ![](https://img-blog.csdnimg.cn/5fbcdc49718843dda6b6b6eef88f630e.png)
